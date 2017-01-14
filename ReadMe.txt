@@ -1,6 +1,4 @@
 Ali Arda Eker
-CS 342 Design Patterns 
-Programming Assignment 3
 11/13/2016
 
 	Simulation program for poker game is implemented using iterator and proxy paterns
